@@ -1,0 +1,32 @@
+header{
+    background-color: darkgoldenrod;
+    color: black;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color: gold;
+    width: 90%;
+    margin:  0 auto;
+    
+}
+p {
+    color: blue;
+    text-align: justify;
+}
+h1 {
+background-color: #1D6BA3;
+text-align: center;
+}
+
+h2 {
+    background-color: #61BDFF;
+text-align: center;
+}
+img{
+    width: 350px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
